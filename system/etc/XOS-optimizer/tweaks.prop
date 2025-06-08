@@ -1,0 +1,5 @@
+performance.level=2
+battery.saving=true
+memory.optimize=true
+cpu.governor=interactive
+thermal.control=moderate
